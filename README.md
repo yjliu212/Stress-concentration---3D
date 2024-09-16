@@ -16,6 +16,8 @@ We can see a few more senarios of stress condition and mud weight condition as b
 And if the wellbore wall's rock strength C0 is around 2000 psi, then the breakout width will be smaller than previous case, as shown below.
 ![image](https://github.com/user-attachments/assets/a55ef46a-af45-40a2-aece-a7646c49f366)
 
+Play with the following conditions yourself.
+
 2. Shmax = 13000, Shmin = 13000
 3. Shmax = 13000, Shmin = 6000
 3. Shmax = 13000, Shmin = 7000, pore pressure = 4000, mud weight = 5000 (over-balanced)
