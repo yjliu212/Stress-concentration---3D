@@ -11,7 +11,7 @@ If the wellbore wall's rock strength C0 is around 20000 psi, the figure below sh
 
 We can see a few more senarios of stress condition and mud weight condition as below.
 
-1. Shmax = 13000, Shmin = 10000, so less horizontal stress difference than previous case. Mud weight still balance pore pressure. We can see that max EHS becomes smaller and min EHS becomes larger than previous case.
+1. Shmax = 13000, Shmin = 10000, so less horizontal stress difference than previous case. Mud weight still balance pore pressure. We can see that max EHS becomes smaller and min EHS becomes larger than before, however, the difference between the max EHS and min EHS is still 4 * (Shmax - Shmin) = 4 * 3000 = 12000 psi.
 ![image](https://github.com/user-attachments/assets/ea0ab386-1124-47ea-a4d6-201ba2cc9f63)
 And if the wellbore wall's rock strength C0 is around 2000 psi, then the breakout width will be smaller than previous case, as shown below.
 ![image](https://github.com/user-attachments/assets/a55ef46a-af45-40a2-aece-a7646c49f366)
