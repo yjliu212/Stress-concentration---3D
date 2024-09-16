@@ -7,7 +7,7 @@ The figure below displays the EHS as a mapview around a wellbore as a contour pl
 ![image](https://github.com/user-attachments/assets/7c89ca07-d31a-43a7-80c0-a23bb438a2f8)
 
 If the wellbore wall's rock strength C0 is around 20000 psi, the figure below shows the area that the wellbore will breakout.
-![image](https://github.com/user-attachments/assets/6ca865b8-b152-44b9-a5ef-c959c2231199)
+![image](https://github.com/user-attachments/assets/49c601c1-2d65-482b-a24f-7d3dd608df5d)
 
 We can see a few more senarios of stress condition and mud weight condition as below.
 
