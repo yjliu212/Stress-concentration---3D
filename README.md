@@ -25,5 +25,7 @@ Play with the following conditions yourself.
 3. Shmax = 13000, Shmin = 7000, pore pressure = 4000, mud weight = 5000 (over-balanced)
 
 See what happends when mud weight is higher than pore pressure. When will tensile failure starts to occur.
+
 Notice that increasing mud weight will reduce breakout width, but introduce tensile fracture. 
+
 Notice that also when the difference between Shmax and Shmin continue to be larger, it will increase breakout width and introduce tensile fracture.
