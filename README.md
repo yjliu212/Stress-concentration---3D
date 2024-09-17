@@ -46,6 +46,7 @@ In this stress condition, the difference between Shmax and Shmin is larger than 
 3. Shmax = 13000, Shmin = 7000, pore pressure = 4000, mud weight = 5000 (over-balanced)
 
 In this case, mud weight is larger than pore pressure and lead to tensile fracture.
+
 ![image](https://github.com/user-attachments/assets/3f12a518-a490-4434-9fa7-47faddea399d)
 
 ![image](https://github.com/user-attachments/assets/c53b603e-495e-4bb3-b654-41a00d19b45f)
