@@ -5,19 +5,21 @@ In the notebook Stress contration and wellbore breakout, we showed how does the 
 
 The figure below displays the EHS as a mapview around a wellbore as a contour plot (on the left) and a image plot (on the right). We can see that higher EHS occurs at the Shmin direction (up and down), and lower EHS occurs at the Shmax direction (left and right). In this case, Shmax = 13000 psi, Shmin = 7000 psi, mud weight = pore pressure = 4000 psi, so a balanced condition. And we can see that the difference between max EHS and min EHS is 24000 psi, which equals to 4 * (Shmx - Shmin) = 4 * 6000 = 24000 psi. This means as a result of stress concentration, the difference between max and min stress around wellbore has been magnified by four times.
 
-![image](https://github.com/user-attachments/assets/7c89ca07-d31a-43a7-80c0-a23bb438a2f8)
+![image](https://github.com/user-attachments/assets/948b51b3-ed52-4e2d-af5e-9a1982c010f5)
 
 If the wellbore wall's rock strength C0 is around 20000 psi, the figure below shows the area that the wellbore will breakout.
 
-![image](https://github.com/user-attachments/assets/49c601c1-2d65-482b-a24f-7d3dd608df5d)
+![image](https://github.com/user-attachments/assets/5d10eb67-01b6-4112-a8c4-d224f0c3baf2)
 
 We can see a few more senarios of stress condition and mud weight condition as below.
 
 1. Shmax = 13000, Shmin = 10000, so less horizontal stress difference than previous case. Mud weight still balance pore pressure. We can see that max EHS becomes smaller and min EHS becomes larger than before, however, the difference between the max EHS and min EHS = 22000 - 6000 = 12000, which is still 4 * (Shmax - Shmin) = 4 * 3000 = 12000 psi.
 
-![image](https://github.com/user-attachments/assets/ea0ab386-1124-47ea-a4d6-201ba2cc9f63)
+![image](https://github.com/user-attachments/assets/4fc842e9-45d5-488f-ae31-0760e0941ca8)
+
 And if the wellbore wall's rock strength C0 is around 2000 psi, then the breakout width will be smaller than previous case, as shown below.
-![image](https://github.com/user-attachments/assets/a55ef46a-af45-40a2-aece-a7646c49f366)
+
+![image](https://github.com/user-attachments/assets/da9d0a3f-7b5e-4915-b3df-7214483121f1)
 
 Play with the following conditions yourself.
 
